@@ -188,5 +188,4 @@
         <item name="android:windowExitAnimation">@anim/pop_hidden_anim</item>
     </style>
 
-
 </resources>
