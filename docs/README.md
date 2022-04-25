@@ -65,13 +65,13 @@ allprojects {
 }
 ```
 
-2.Then, in the dependencies of the project:
+2.Then add in the dependencies of `build.gradle` of the application project (usually app):
 
 ```
 dependencies {
   ...
   //androidx project
-  implementation 'com.github.xuexiangjys:XUI:1.1.8'
+  implementation 'com.github.xuexiangjys:XUI:1.1.9'
 
   implementation 'androidx.appcompat:appcompat:1.3.1'
   implementation 'androidx.recyclerview:recyclerview:1.2.1'
